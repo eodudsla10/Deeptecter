@@ -104,7 +104,7 @@
 
 - `카카오 오븐` 으로 간략하게 표현
 
-![%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%2093a66afcf58143bc8c183306c52f90ab/Untitled.png](%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%2093a66afcf58143bc8c183306c52f90ab/Untitled.png)
+    ![Oven](https://user-images.githubusercontent.com/56648712/165068588-5fcc5ce8-1d21-477a-b91b-ebd5767a62f9.png)
 
 ### 메인 화면
 
@@ -145,9 +145,11 @@
 - 이미지 데이터 수집 및 분석
     - 마스크 착용/미착용 얼굴 이미지 데이터셋
         
-        ![%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%2093a66afcf58143bc8c183306c52f90ab/Untitled%201.png](%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%2093a66afcf58143bc8c183306c52f90ab/Untitled%201.png)
-        
-        ![%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%2093a66afcf58143bc8c183306c52f90ab/Untitled%202.png](%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%2093a66afcf58143bc8c183306c52f90ab/Untitled%202.png)
+       ![image1](https://user-images.githubusercontent.com/56648712/165068773-0092bfc2-1024-4a46-bd53-70c5b4686c8c.png)
+
+            
+    ![image2](https://user-images.githubusercontent.com/56648712/165068903-6a2ea1ff-3971-406b-b1c0-f85da0fbf9e8.png)
+
         
         - [https://www.kaggle.com/dhruvmak/face-mask-detection](https://www.kaggle.com/dhruvmak/face-mask-detection)
         - [https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset](https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset)
@@ -158,10 +160,6 @@
         - [https://github.com/achen353/Face-Mask-Detector/tree/master/data](https://github.com/achen353/Face-Mask-Detector/tree/master/data)
         - [https://www.kaggle.com/omkargurav/face-mask-dataset](https://www.kaggle.com/omkargurav/face-mask-dataset)
         - [https://github.com/Yousef-Hesham/COVID19-Face-Mask-Detector](https://github.com/Yousef-Hesham/COVID19-Face-Mask-Detector)
-        
-    - 추가적으로 이미지 데이터셋 생성할 때 참고할 사이트 [[https://teachablemachine.withgoogle.com/train/image](https://teachablemachine.withgoogle.com/train/image)]
-        
-        ![%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%2093a66afcf58143bc8c183306c52f90ab/Untitled%203.png](%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%2093a66afcf58143bc8c183306c52f90ab/Untitled%203.png)
         
 - 웹 크롤링(이미지 가져오기)
 - 성능 분석
@@ -317,19 +315,10 @@
 - 여러 기기 제어를 위한 리이브러리 설치(라즈베리파이)
 
 ## 6. 아키텍처
-
-아키텍처 링크
-
-- [https://miro.com/welcomeonboard/uw5QrHETZRCIE9bCgdL0TU93tyguGdcupsgmPRYtyqxood8D7xHKwC7SUcI8CEHy](https://miro.com/welcomeonboard/uw5QrHETZRCIE9bCgdL0TU93tyguGdcupsgmPRYtyqxood8D7xHKwC7SUcI8CEHy)
+<img width="1055" alt="Architecture" src="https://user-images.githubusercontent.com/56648712/165069530-31a7d7ba-6cad-4486-b598-d32d9a932ef7.png">
 
 ## 7. 일정
 
 WBS 작성 링크 
 
 - [https://drive.google.com/file/d/1uuR5OlgRniodFJIPCfXr7DZVdruS5NNq/view?usp=sharing](https://drive.google.com/file/d/1uuR5OlgRniodFJIPCfXr7DZVdruS5NNq/view?usp=sharing)
-
-# 아키텍쳐 설계
-
-- 링크
-    
-    [Miro: the collaborative whiteboard platform for distributed teams](https://miro.com/app/board/o9J_lFp6KUo=/)
